@@ -3,5 +3,5 @@ Takes a playlist from Spotify, logically keeps track of all songs, locally downl
 
 ## Dependencies
 
--
+- https://www.nexusmods.com/cyberpunk2077/mods/4591
 -
